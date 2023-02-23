@@ -1,0 +1,55 @@
+[
+    {
+        "image":"/assets/user1.jpg",
+        "description":"Is he Bruce Lee?",
+        "rightAnswer":"false"
+    },
+    {
+        "image":"/assets/user2.jpg",
+        "description":"Is she attractive?",
+        "rightAnswer":"false"
+    },
+    {
+        "image":"/assets/user3.jpg",
+        "description":"Does she have dark hair?",
+        "rightAnswer":"true"
+    },
+    {
+        "image":"/assets/user4.jpg",
+        "description":"Does she have light skin?",
+        "rightAnswer":"true"
+    },
+    {
+        "image":"/assets/user5.jpg",
+        "description":"Is she smiling?",
+        "rightAnswer":"true"
+    },
+    {
+        "image":"/assets/user6.jpg",
+        "description":"Is she pretty?",
+        "rightAnswer":"false"
+    },
+    {
+        "image":"/assets/user7.jpg",
+        "description":"Does her hair fit her style?",
+        "rightAnswer":"false"
+    },
+    {
+        "image":"/assets/user9.jpg",
+        "description":"Is he the most attractive man alive?",
+        "rightAnswer":"yes"
+    },
+    {
+        "image":"/assets/user10.jpg",
+        "description":"Is she American?",
+        "rightAnswer":"false"
+    },
+    {
+        "image":"/assets/user11.jpg",
+        "description":"Is she an international criminal?",
+        "rightAnswer":"yes"
+    }
+]
+
+
+

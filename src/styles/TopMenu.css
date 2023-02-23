@@ -1,0 +1,26 @@
+.TopMenu-container {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.wrong-counter-container,
+.correct-counter-container {
+    display: flex;
+    gap: 20px;
+}
+.wrong-answer-image, .correct-answer-image {
+    width: 100px;
+    height: 100px;
+}
+.correct-answer-counter,
+.wrong-answer-counter {
+    font-size: 32px;
+}
+
+.correct-answer-counter {
+    color: lime;
+}
+.wrong-answer-counter {
+    color: red;
+}

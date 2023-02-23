@@ -1,0 +1,10 @@
+.Display-container {
+    width: 30%;
+    margin: auto;
+}
+.Display-image {
+    width: 100%;
+}
+.Display-description{
+    text-align: center;
+}

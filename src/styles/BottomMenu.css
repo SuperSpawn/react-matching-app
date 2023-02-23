@@ -1,0 +1,19 @@
+
+.BottomMenu-container {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+.BottomMenu-button-false {
+    font-size: 30px;
+    background-color: red;
+}
+.BottomMenu-button-false:hover,
+.BottomMenu-button-true:hover {
+    cursor: pointer;
+}
+
+.BottomMenu-button-true {
+    font-size: 30px;
+    background-color: lime;
+}
